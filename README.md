@@ -19,14 +19,16 @@
   - 缺乏系统的多来源对比与可追溯机制
 - 本工作填补上述缺口，为研究者提供更可靠的选刊参考。
 
-## 3. 相关工作
+## 3. 相关工作（请学生引用以下文献）
 
-| 研究 | 数据来源 | 核心内容 | 发表期刊 |
+| 研究 | 数据来源 | 核心内容 | 完整引用 |
 |------|----------|----------|----------|
-| Huisman & Smits (2017) | SciRev 众包 | 审稿时长、学科差异、desk reject | *Scientometrics* |
-| Manusights Journal Outcomes | PubMed + 官方 | 投稿到录用中位数 | 数据集 |
-| Accounting STA (2025) | 手工收集 | 会计顶刊时间趋势 | *The Accounting Review* |
-| 其他单学科研究 | 各异 | 局部审稿效率 | 分散 |
+| Huisman & Smits (2017) | SciRev 众包（约 3500 条） | 审稿时长、学科差异、desk reject 时间、作者满意度 | Huisman, J., & Smits, J. (2017). Duration and quality of the peer review process: the author’s perspective. *Scientometrics*, 113(1), 633–650. https://doi.org/10.1007/s11192-017-2310-5 |
+| Manusights Journal Outcomes Dataset | PubMed 日期推算 + 官方报告 | 投稿到录用中位数、部分官方 first decision | Manusights. (2026). *Journal outcomes dataset, 2026 edition* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23001076 （另见 https://manusights.com/resources/journal-intelligence） |
+| Hurley et al. (2025) | 手工收集顶刊 | 会计顶刊 STA 时间趋势及影响因素 | Hurley, P. J., Gal-Or, R., Knechel, W. R., & Pesch, H. L. (2025). Submit-to-accept times in accounting: Determinants and comparisons to other business disciplines. *The Accounting Review*, 100(2), 219–247. https://doi.org/10.2308/TAR-2022-0574 |
+| 其他单学科研究 | 各异 | 局部审稿效率 | 见各学科内分散论文 |
+
+**备注**：Manusights 主要以数据集形式发布，并未在正规期刊发表对应论文。引用时请使用上述 DOI 或官网链接。
 
 ## 4. 建议章节结构
 
